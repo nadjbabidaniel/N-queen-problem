@@ -1,0 +1,19 @@
+c:\users\vladimir\documents\visual studio 2010\Projects\ORI Projekat\ORI Projekat\bin\Debug\ORI Projekat.exe
+c:\users\vladimir\documents\visual studio 2010\Projects\ORI Projekat\ORI Projekat\bin\Debug\ORI Projekat.pdb
+c:\users\vladimir\documents\visual studio 2010\Projects\ORI Projekat\ORI Projekat\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2010\Projects\ORI Projekat\ORI Projekat\obj\x86\Debug\ORI_Projekat.Properties.Resources.resources
+c:\users\vladimir\documents\visual studio 2010\Projects\ORI Projekat\ORI Projekat\obj\x86\Debug\ORI_Projekat.UserControl1.resources
+c:\users\vladimir\documents\visual studio 2010\Projects\ORI Projekat\ORI Projekat\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\vladimir\documents\visual studio 2010\Projects\ORI Projekat\ORI Projekat\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\vladimir\documents\visual studio 2010\Projects\ORI Projekat\ORI Projekat\obj\x86\Debug\ORI Projekat.exe
+c:\users\vladimir\documents\visual studio 2010\Projects\ORI Projekat\ORI Projekat\obj\x86\Debug\ORI Projekat.pdb
+c:\users\vladimir\documents\visual studio 2010\Projects\ORI Projekat\ORI Projekat\obj\x86\Debug\ORI_Projekat.Form1.resources
+C:\Users\DanielN\Downloads\ORI Projekat\ORI Projekat\ORI Projekat\obj\x86\Debug\ORI Projekat.pdb
+C:\Users\DanielN\Downloads\ORI Projekat\ORI Projekat\ORI Projekat\bin\Debug\ORI Projekat.exe
+C:\Users\DanielN\Downloads\ORI Projekat\ORI Projekat\ORI Projekat\bin\Debug\ORI Projekat.pdb
+C:\Users\DanielN\Downloads\ORI Projekat\ORI Projekat\ORI Projekat\obj\x86\Debug\ORI Projekat.csprojResolveAssemblyReference.cache
+C:\Users\DanielN\Downloads\ORI Projekat\ORI Projekat\ORI Projekat\obj\x86\Debug\ORI_Projekat.Form1.resources
+C:\Users\DanielN\Downloads\ORI Projekat\ORI Projekat\ORI Projekat\obj\x86\Debug\ORI_Projekat.Properties.Resources.resources
+C:\Users\DanielN\Downloads\ORI Projekat\ORI Projekat\ORI Projekat\obj\x86\Debug\ORI_Projekat.UserControl1.resources
+C:\Users\DanielN\Downloads\ORI Projekat\ORI Projekat\ORI Projekat\obj\x86\Debug\ORI Projekat.csproj.GenerateResource.Cache
+C:\Users\DanielN\Downloads\ORI Projekat\ORI Projekat\ORI Projekat\obj\x86\Debug\ORI Projekat.exe
